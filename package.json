@@ -1,0 +1,8 @@
+{
+  "name": "vue-router-chrome-extension",
+  "version": "0.1.0",
+  "description": "A chrome extension to easily navigate your routes on your vue application",
+  "repository": "https://github.com/Pixeldenker/vue-router-chrome-extension.git",
+  "author": "Pixeldenker",
+  "license": "MIT"
+}
