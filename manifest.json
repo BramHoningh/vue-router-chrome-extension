@@ -4,6 +4,9 @@
   "description": "Easy navigate your vue app",
   "author": "Pixeldenker",
   "version": "0.1.0",
-  "default_locale": "en",
-  "permissions": ["activeTab"]
+  "permissions": ["activeTab"],
+  "browser_action": {
+    "default_popup": "index.html",
+    "default_icon": "hello_extensions.png"
+  }
 }
