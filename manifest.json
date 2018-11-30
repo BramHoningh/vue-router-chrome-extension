@@ -1,0 +1,9 @@
+{
+  "manifest_version": 2,
+  "name": "Vue Router Navigator",
+  "description": "Easy navigate your vue app",
+  "author": "Pixeldenker",
+  "version": "0.1.0",
+  "default_locale": "en",
+  "permissions": ["activeTab"]
+}
